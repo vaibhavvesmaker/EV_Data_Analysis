@@ -1,5 +1,3 @@
-
-
 # Comprehensive Technical Report: Detailed Analysis of EV Charging Data
 
 ## Executive Summary 
