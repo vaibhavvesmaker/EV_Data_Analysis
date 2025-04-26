@@ -1,7 +1,7 @@
 # Comprehensive Technical Report: Detailed Analysis of EV Charging Data
 
 ## Executive Summary     
-This report offers a detailed examination of the patterns, behaviors, and anomalies in electric vehicle (EV) charging data, leveraging a robust analytical approach to enhance operational strategies and customer engagement. Using advanced statistical tools and machine learning models, this report aims to provide stakeholders with actionable insights for strategic decision-making, ultimately driving growth and improving service delivery in EV charging operations.  
+This report offers a detailed examination of the patterns, behaviors, and anomalies in electric vehicle (EV) charging data, leveraging a robust analytical approach to enhance operational strategies and customer engagement. Using advanced statistical tools and machine learning models, this report aims to provide stakeholders with actionable insights for strategic decision-making, ultimately driving growth and improving service delivery in EV charging operations.   
  
 ## Data Overview 
 The dataset consists of 277 records, each representing a single charging session with attributes such as start time, energy metrics, and session duration. The data is rich with temporal information, making it ideal for time-series analysis and pattern recognition.
