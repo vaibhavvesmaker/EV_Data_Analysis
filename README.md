@@ -5,7 +5,7 @@ This report offers a detailed examination of the patterns, behaviors, and anomal
  
 ## Data Overview 
 The dataset consists of 277 records, each representing a single charging session with attributes such as start time, energy metrics, and session duration. The data is rich with temporal information, making it ideal for time-series analysis and pattern recognition. 
- 
+  
 ## Data Preprocessing and Exploration
 1. **Datetime Conversion:** Conversion of 'Start Time' to Python datetime objects enabled time-based aggregation and trend analysis, essential for understanding usage patterns over time.
 2. **Handling Missing Data:** Imputations in the 'Charger_name' column ensured the integrity of categorical analysis, allowing for complete and unbiased operational insights.
